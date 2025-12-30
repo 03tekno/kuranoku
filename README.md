@@ -1,4 +1,4 @@
-# mt-wallpapers version: 1.0
-Wallpapers for Debian/Devuan based distros 
+# kuranoku version: 1.0
+Quran for Debian/Devuan based distros 
 
 ![screenshot](resim.png "screenshot")
