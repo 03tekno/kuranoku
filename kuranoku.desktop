@@ -1,9 +1,0 @@
-[Desktop Entry]
-Name=Kuran-ı Kerim
-Comment=Diyanet Kuran Sayfaları Görüntüleyici
-Exec=python3 /opt/KuranOku/kuranoku.py
-Icon=/opt/KuranOku/icon.png
-Terminal=false
-Type=Application
-Categories=Education;Reading;
-Keywords=quran;kuran;reader;
